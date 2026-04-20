@@ -16,9 +16,9 @@ CF StatLens is a lightweight, blazing-fast browser extension that replaces the d
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/image1.png" height="400px" width="48%" alt="CF StatLens Hover Overview" />
+  <img src="assets/image1.png" height="450px" width="45%" alt="CF StatLens Hover Overview" />
   &nbsp;
-  <img src="assets/image2.png" height="400px" width="48%" alt="Difficulty Breakdown View" />
+  <img src="assets/image2.png" height="450px" width="45%" alt="Difficulty Breakdown View" />
 </p>
 
 ## 🛠️ Installation (Developer Mode)
