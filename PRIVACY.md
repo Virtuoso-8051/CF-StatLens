@@ -1,0 +1,1 @@
+"CF StatLens is an open-source tool that does not collect, store, or transmit any personal user data. All API data is fetched directly from Codeforces and cached locally on the user's device." Commit that file, hit Save on the Google dashboard, and you are ready to submit it for review! Let me know when you click that final publish button!
